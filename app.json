@@ -18,15 +18,15 @@
     },
     "TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "8656923122:AAHEH7CkDyv6Ew4RoIXO8TrxdVjOz1t7Y_0"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": ""
+      "value": "8911274011"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": ""
+      "value": "Lovemeee07"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
